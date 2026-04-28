@@ -5,4 +5,4 @@ hyprland
 kitty
 dolphin
 yay
-
+awww
