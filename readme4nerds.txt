@@ -1,5 +1,8 @@
-requirements so far - 
-hyprland 
-quickshell
+packages required - 
+git
 wayland
+hyprland
 kitty
+dolphin
+yay
+
