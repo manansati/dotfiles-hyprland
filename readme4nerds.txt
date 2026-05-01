@@ -6,3 +6,5 @@ kitty
 dolphin
 yay
 awww
+hypridle
+quickshell
